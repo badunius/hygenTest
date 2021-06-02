@@ -1,0 +1,15 @@
+{
+  "name": "htest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hygen:api:titles": "npx hygen api new --area titles"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hygen": "^6.1.0"
+  }
+}
